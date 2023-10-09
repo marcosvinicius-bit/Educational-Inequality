@@ -1,0 +1,19 @@
+body{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+    /*background-image: url();
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed; */
+    /* background-image: linear-gradient(90deg, #ffff00, #008000, #01fde8, #ff0000); */
+    background-image: radial-gradient(circle, #ffff00, #008000, #01fde8, #f092f3, rgb(0, 47, 255))
+    
+}
+
+p{
+    text-align: justify;
+    margin: 50px;
+}
